@@ -1,7 +1,7 @@
 {
     "name": "lisnyak/package-2022",
     "description": "Test",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "require-dev": {
         "phpunit/phpunit": "9.5.x-dev"
     },
